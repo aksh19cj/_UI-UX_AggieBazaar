@@ -16,21 +16,21 @@ AggieBazaar is a marketplace designed with the needs of Texas A&M University stu
 
 ## User Personas and Scenarios
 
-### Primary Persona: Enola Holmes
-- **Scenario 1**: Enola, a new graduate student, uses AggieBazaar to find affordable furniture and textbooks.
+### Primary Persona: User1
+- **Scenario 1**: User1, a new graduate student, uses AggieBazaar to find affordable furniture and textbooks.
 - **Scenario 2**: She uses the search filters to find a coffee machine that meets her criteria.
-- **Scenario 3**: Enola contacts customer support when she receives incorrect seller contact details.
+- **Scenario 3**: User1 contacts customer support when she receives incorrect seller contact details.
 - **Scenario 4**: She successfully buys a dresser and leaves a positive review for the seller.
-- **Scenario 5**: Enola decides to sell her old laptop on AggieBazaar due to her positive buying experience.
+- **Scenario 5**: User1 decides to sell her old laptop on AggieBazaar due to her positive buying experience.
 
-### Secondary Persona: Tim Cook
-- **Scenario 1**: Tim, a former Aggie, registers as a seller to list his handmade laser crafts.
+### Secondary Persona: User2
+- **Scenario 1**: User2, a former Aggie, registers as a seller to list his handmade laser crafts.
 - **Scenario 2**: He expands his reach by listing his popular Christmas ornaments on AggieBazaar.
 
 ## Development Process
 
 ### Planning
-- **Website URL**: [AggieBazaar](#)
+- **Website URL**: [[AggieBazaar](#)](https://akshaycj73.wixsite.com/aggiebazaarr)
 - **Team Overview**: A diverse team of students contributing based on individual strengths and expertise.
 - **Collaboration Strategy**: Use of dedicated meeting timetables and clear communication channels to ensure effective collaboration.
 
@@ -55,10 +55,3 @@ AggieBazaar is a marketplace designed with the needs of Texas A&M University stu
   - LucidChart for Journey Map: [LucidChart](https://lucid.app/documents#/dashboard)
   - Canva for Persona: [Canva](https://www.canva.com/)
 
-## Contributing
-
-We welcome contributions from the Texas A&M community to enhance the AggieBazaar platform. Please follow our [Contributing Guidelines](#) to get started.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
