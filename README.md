@@ -18,14 +18,14 @@ AggieBazaar is a marketplace designed with the needs of Texas A&M University stu
 
 ### Primary Persona: User1
 - **Scenario 1**: User1, a new graduate student, uses AggieBazaar to find affordable furniture and textbooks.
-- **Scenario 2**: She uses the search filters to find a coffee machine that meets her criteria.
-- **Scenario 3**: User1 contacts customer support when she receives incorrect seller contact details.
-- **Scenario 4**: She successfully buys a dresser and leaves a positive review for the seller.
-- **Scenario 5**: User1 decides to sell her old laptop on AggieBazaar due to her positive buying experience.
+- **Scenario 2**: User1 uses the search filters to find a coffee machine that meets their criteria.
+- **Scenario 3**: User1 contacts customer support when they receives incorrect seller contact details.
+- **Scenario 4**: User1 successfully buys a dresser and leaves a positive review for the seller.
+- **Scenario 5**: User1 decides to sell their old laptop on AggieBazaar due to their positive buying experience.
 
 ### Secondary Persona: User2
-- **Scenario 1**: User2, a former Aggie, registers as a seller to list his handmade laser crafts.
-- **Scenario 2**: He expands his reach by listing his popular Christmas ornaments on AggieBazaar.
+- **Scenario 1**: User2, a former Aggie, registers as a seller to list their handmade laser crafts.
+- **Scenario 2**: User2 expands their reach by listing his popular Christmas ornaments on AggieBazaar.
 
 ## Development Process
 
