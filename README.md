@@ -2,6 +2,9 @@
 
 AggieBazaar is an online marketplace exclusively for the Texas A&M University community, designed to facilitate the buying and selling of pre-owned goods, handmade items, and more. This platform aims to create a secure and convenient environment for Aggies to engage in commerce within their community.
 
+![image](https://github.com/aksh19cj/_UI-UX_AggieBazaar/assets/115515702/10850cce-cb96-43a3-bbff-658c51a30cb5)
+
+
 ## Project Overview
 
 AggieBazaar is a marketplace designed with the needs of Texas A&M University students, faculty, and alumni in mind. The platform supports both buying and selling activities, ensuring a secure and user-friendly experience. This project was developed as part of a course requirement and includes comprehensive user research, usability evaluations, and continuous improvements based on user feedback.
